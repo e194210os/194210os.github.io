@@ -1,0 +1,27 @@
+h1{
+    color: #ff15ff;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:black;
+}
+h2{
+    color: #ff14ff;
+    text-align:center;
+    background-color:black;
+}
+table{
+    background-color: blanchedalmond;
+}
+p{
+    color:yellowgreen;
+}
+
+ol{
+     background-image: url(../images/back2.jpeg);
+}
+
+body{
+    background-image: url(../images/back1.jpg);
+    background-position: right
+}
