@@ -1,0 +1,30 @@
+h1.title{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:black;
+}
+
+h1.rinku{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:cadetblue;
+}
+
+h2.pokeka{
+    background-color:red;
+}
+
+h2.supura{
+    background-color:chartreuse;
+}
+
+
+body{
+    background-image: url(../images/back2.jpeg);
+}
